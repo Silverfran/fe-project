@@ -3,13 +3,10 @@ import { Item } from '../types/globals';
 import ListGrid from './ListGrid';
 import SearchBar from './SearchBar';
 
-
-
 type Props = {
     gameList: Item[]
 };
   
-
 const GameList = ({ gameList }: Props) => {
 
     const [itemList, setItemList]= useState<Item[]>();

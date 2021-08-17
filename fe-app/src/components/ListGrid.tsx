@@ -1,8 +1,5 @@
-// import React, { FC } from 'react';
 import { Item } from '../types/globals';
 import ListItem from './ListItem';
-
-
 
 type Props = {
     gameList?: Item[];

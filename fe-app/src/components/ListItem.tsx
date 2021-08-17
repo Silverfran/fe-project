@@ -1,13 +1,9 @@
-// import React, { FC } from 'react';
 import { Item } from '../types/globals';
-
-
 
 type Props = {
     item: Item;
 };
   
-
 const ListItem = ({item}: Props) => {
 
     return(
