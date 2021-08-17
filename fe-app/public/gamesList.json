@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/hotline@216px.png",
+        "attributes": {
+            "name": "Hot Line",
+            "size": 216,
+            "type": "old",
+            "rating": 2
+        }
+    },
+    {
+        "url": "/sea_of_tranquility@216px.png",
+        "attributes": {
+            "name": "Sea Of Tranquility",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/neon_jwigle@216px.png",
+        "attributes": {
+            "name": "Neon Jwigle",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/aloha@216px.png",
+        "attributes": {
+            "name": "Aloha",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/3_hit_pay@452px.png",
+        "attributes": {
+            "name": "3 hit pay",
+            "size": 452,
+            "type": "new",
+            "rating": 5
+        }
+    },
+    {
+        "url": "/day_of_the_dead@216px.png",
+        "attributes": {
+            "name": "Day Of The Dead",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/dr_jekyu_&_mr_hyde@216px.png",
+        "attributes": {
+            "name": "Dr Jeyku & Mr Hyde",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/dr_jekyu_&_mr_hyde@216px.png",
+        "attributes": {
+            "name": "Dr Jeyku & Mr Hyde",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/day_of_the_dead@216px.png",
+        "attributes": {
+            "name": "Day Of The Dead",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/day_of_the_dead@216px.png",
+        "attributes": {
+            "name": "Day Of The Dead",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/dr_jekyu_&_mr_hyde@216px.png",
+        "attributes": {
+            "name": "Dr Jeyku & Mr Hyde",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/fruit_spin@216px.png",
+        "attributes": {
+            "name": "Fruit Spin",
+            "size": 216,
+            "type": "old",
+            "rating": 2
+        }
+    },
+    {
+        "url": "/smokin_hot_gems@216px.png",
+        "attributes": {
+            "name": "Smokin Hot Gems",
+            "size": 216,
+            "type": "old",
+            "rating": 3
+        }
+    },
+    {
+        "url": "/jack_hammer@216px.png",
+        "attributes": {
+            "name": "Jack Hammer",
+            "size": 216,
+            "type": "old",
+            "rating": 2
+        }
+    },
+    {
+        "url": "/gonzos_quest@216px.png",
+        "attributes": {
+            "name": "Gonzos Quest",
+            "size": 216,
+            "type": "old",
+            "rating": 3
+        }
+    },
+    {
+        "url": "/aloha@216px.png",
+        "attributes": {
+            "name": "Aloha",
+            "size": 216,
+            "type": "new",
+            "rating": 4
+        }
+    },
+    {
+        "url": "/hotline@216px.png",
+        "attributes": {
+            "name": "Hot Line",
+            "size": 216,
+            "type": "old",
+            "rating": 2
+        }
+    },
+    {
+        "url": "/sugar_smash@216px.png",
+        "attributes": {
+            "name": "Sugar Smash",
+            "size": 216,
+            "type": "old",
+            "rating": 3
+        }
+    },
+    {
+        "url": "/fruit_spin@216px.png",
+        "attributes": {
+            "name": "Fruit Spin",
+            "size": 216,
+            "type": "old",
+            "rating": 2
+        }
+    },
+    {
+        "url": "/jumanji@452px.png",
+        "attributes": {
+            "name": "Jumanji",
+            "size": 452,
+            "type": "new",
+            "rating": 5
+        }
+    },
+    {
+        "url": "/fruit_zen@216px.png",
+        "attributes": {
+            "name": "Fruit Zen",
+            "size": 216,
+            "type": "old",
+            "rating": 3
+        }
+    },
+    {
+        "url": "/booster@216px.png",
+        "attributes": {
+            "name": "Booster",
+            "size": 216,
+            "type": "new",
+            "rating": 5
+        }
+    }
+]
